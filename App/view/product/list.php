@@ -1,5 +1,5 @@
 <div class="container mt-5">
-    <h2 style="margin: auto">Product Management (^_^)</h2><br>
+    <h2 style="text-align: center">Product Management (^_^)</h2><br>
     <table class="table table table-hover mt-3 ">
         <a class="btn btn-primary" href="index.php?page=product-create">Create</a>
         <thead class="thead-light">
@@ -12,7 +12,7 @@
             <th>Quantity</th>
             <th>Date Create</th>
             <th>Description</th>
-            <th colspan="2">Action</th>
+            <th colspan="2" style="text-align: center">Action</th>
         </tr>
         </thead>
         <tbody>

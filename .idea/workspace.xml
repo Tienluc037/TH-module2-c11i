@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="706c1fa8-04f2-499e-b9d7-c8968a7160b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Thực Hành 2Module-1c11i.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Thực Hành 2Module-1c11i.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1da33055-0066-4ea2-8ed5-03586366c73a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1da33055-0066-4ea2-8ed5-03586366c73a.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/view/product/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/view/product/list.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MD2-Case-FoodHub" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -67,7 +64,7 @@
       <updated>1645495909100</updated>
       <workItem from="1645495910246" duration="14000" />
       <workItem from="1645495934376" duration="9617000" />
-      <workItem from="1645511417470" duration="1001000" />
+      <workItem from="1645511417470" duration="3957000" />
     </task>
     <servers />
   </component>
