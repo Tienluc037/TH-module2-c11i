@@ -1,8 +1,8 @@
 
-<a href="index.php?page=product-create">Create</a>
 <div class="container">
-
     <table class="table table table-hover">
+        <a class="btn btn-primary" href="index.php?page=product-create">Create</a>
+
         <thead class="thead-light">
         <tr>
             <th>ID</th>
@@ -29,8 +29,8 @@
                     <td> <?php echo $product->quantity?></td>
                     <td> <?php echo $product->dateCreated?></td>
                     <td> <?php echo $product->description?></td>
-                    <td><a onclick="return confirm('Bạn có muốn xóa?')" href="index.php?page=product-delete&id=<?php echo $product->id?>">Delete</a></td>
-                    <td><a href="index.php?page=product-update&id=<?php echo $product->id?>">Update</a></td>
+                    <td><a  style="color: red" onclick="return confirm('Bạn có muốn xóa?')" href="index.php?page=product-delete&id=<?php echo $product->id?>">Delete</a></td>
+                    <td><a style="color: #2765d2" href="index.php?page=product-update&id=<?php echo $product->id?>">Update</a></td>
 
                 </tr>
 
