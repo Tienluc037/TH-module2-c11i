@@ -1,6 +1,6 @@
 <div class="container mt-5">
     <h2 style="text-align: center">Product Management (^_^)</h2><br>
-    <table class="table table table-hover mt-3 ">
+    <table class="table table table-hover mt-3 " border="3px">
         <a class="btn btn-primary" href="index.php?page=product-create">Create</a>
         <thead class="thead-light">
         <tr>
