@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="706c1fa8-04f2-499e-b9d7-c8968a7160b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/App/controller/ProductController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/model/BaseModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/model/DbConnect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/model/ProductModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/view/product/create.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/view/product/list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/view/product/update.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/view/product/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/view/product/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/view/product/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/view/product/list.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1645495909100</updated>
       <workItem from="1645495910246" duration="14000" />
-      <workItem from="1645495934376" duration="8984000" />
+      <workItem from="1645495934376" duration="9617000" />
     </task>
     <servers />
   </component>

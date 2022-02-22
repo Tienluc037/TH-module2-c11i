@@ -12,6 +12,6 @@
     <input type="text" name="quantity" placeholder="Nhập số lượng sản phẩm">
     <input type="date" name="dateCreated" placeholder="Ngày tạo">
     <input type="text" name="description" placeholder="Mô tả sản phẩm">
-    <button>Create</button>
+    <button class="btn btn-primary">Create</button>
 </form>
 
