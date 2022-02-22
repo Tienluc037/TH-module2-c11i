@@ -1,4 +1,4 @@
-<div class="container" style="background-color: rgba(150,179,232,0.72)">
+<div class="container mt-5" style="background-color: rgba(150,179,232,0.72)">
     <h2>Update Products</h2><br>
     <form action="" method="post">
         <div class="form-group">

@@ -1,5 +1,5 @@
-<div class="container">
-    <table class="table table table-hover">
+<div class="container mt-5">
+    <table class="table table table-hover mt-3">
         <a class="btn btn-primary" href="index.php?page=product-create">Create</a>
 
         <thead class="thead-light">
