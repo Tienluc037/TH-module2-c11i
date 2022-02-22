@@ -1,4 +1,3 @@
-
 <div class="container" style="background-color: rgba(150,179,232,0.72)">
     <h2>Add Products</h2><br>
     <form action="" method="post">
@@ -14,11 +13,13 @@
         <div class="form-group">
             <label for="exampleInputPassword1">Price</label>
             <input type="text" name="price" placeholder="Nhập giá sản phẩm">
-        </div> <div class="form-group">
+        </div>
+        <div class="form-group">
 
             <label for="exampleInputPassword1">Quantity</label>
             <input type="text" name="quantity" placeholder="Nhập số lượng sản phẩm">
-        </div> <div class="form-group">
+        </div>
+        <div class="form-group">
 
             <label for="exampleInputPassword1">Date Create</label>
             <input type="date" name="dateCreated" placeholder="Ngày tạo">
@@ -36,8 +37,10 @@
                 <option value="Đồ gia dụng">Đồ gia dụng</option>
                 <option value="Đồ chơi">Đồ chơi</option>
             </select>
-        </div><br>
-        <button type="submit" class="btn btn-success"">Create</button>
-        <button  class="btn btn-outline-primary"><a href="index.php?page=product-list">Back</a></button>
+        </div>
+        <br>
+        <button type="submit" class="btn btn-success"
+        ">Create</button>
+        <button class="btn btn-outline-primary"><a href="index.php?page=product-list">Back</a></button>
     </form>
 </div>

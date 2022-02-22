@@ -1,4 +1,3 @@
-
 <div class="container">
     <table class="table table table-hover">
         <a class="btn btn-primary" href="index.php?page=product-create">Create</a>
@@ -18,19 +17,21 @@
         </thead>
         <tbody>
         <tbody>
-        <?php if(isset($products)): ?>
+        <?php if (isset($products)): ?>
             <?php foreach ($products as $product): ?>
                 <tr>
-                    <td> <?php echo $product->id?></td>
-                    <td> <?php echo $product->productCode?></td>
-                    <td> <?php echo $product->name?></td>
-                    <td> <?php echo $product->type?></td>
-                    <td> <?php echo $product->price?></td>
-                    <td> <?php echo $product->quantity?></td>
-                    <td> <?php echo $product->dateCreated?></td>
-                    <td> <?php echo $product->description?></td>
-                    <td><a  style="color: red" onclick="return confirm('Bạn có muốn xóa?')" href="index.php?page=product-delete&id=<?php echo $product->id?>">Delete</a></td>
-                    <td><a style="color: #2765d2" href="index.php?page=product-update&id=<?php echo $product->id?>">Update</a></td>
+                    <td> <?php echo $product->id ?></td>
+                    <td> <?php echo $product->productCode ?></td>
+                    <td> <?php echo $product->name ?></td>
+                    <td> <?php echo $product->type ?></td>
+                    <td> <?php echo $product->price ?></td>
+                    <td> <?php echo $product->quantity ?></td>
+                    <td> <?php echo $product->dateCreated ?></td>
+                    <td> <?php echo $product->description ?></td>
+                    <td><a style="color: red" onclick="return confirm('Bạn có muốn xóa?')"
+                           href="index.php?page=product-delete&id=<?php echo $product->id ?>">Delete</a></td>
+                    <td><a style="color: #2765d2" href="index.php?page=product-update&id=<?php echo $product->id ?>">Update</a>
+                    </td>
 
                 </tr>
 
@@ -43,5 +44,5 @@
         </tbody>
         </tbody>
     </table>
-</table>
+    </table>
 </div>
